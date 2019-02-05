@@ -1,0 +1,5 @@
+classes=1
+train=/Users/ming/Desktop/aishop_darknet/scripts/train.txt
+valid=/Users/ming/Desktop/aishop_darknet/scripts/test.txt
+names=/Users/ming/Desktop/face_darknet/data/voc.names
+backup=backup
